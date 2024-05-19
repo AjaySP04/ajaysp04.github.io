@@ -12,23 +12,23 @@ email: ajays.parmar04@gmail.com
 website: https://ajaysp04.github.io/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: ajays_parmar
 github_username:  ajaysp04
 # stackoverflow_username: "ajay-s-parmar"
-# dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: node.ajay
 # flickr_username: jekyll
+# dribbble_username: jekyll
 instagram_username: ajay.sparmar
 linkedin_username: ajay-singh-parmar
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -47,9 +47,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   My journey has been defined by a commitment to driving projects to success, thriving in collaborative environments, and constantly seeking new challenges. Whether it's architecting scalable systems or spearheading development initiatives, I approach each project with a blend of creativity and technical expertise.
 
-  Join me as I share insights, experiences, and the occasional code snippet on my journey through the dynamic world of software engineering. Let's explore the endless possibilities of technology together!
+  My expertise is in web application development, mostly using <mark>Python</mark> and <mark>Golang</mark>. I have experience in <mark>GCP</mark> cloud and various databases including <mark>Postgres</mark>, <mark>MySQL</mark>, <mark>MongoDB</mark> and <mark>BigTable</mark>. Additionally, I have some experience in front-end technologies like React.js.
 
-  My expertise is in web application development, mostly using <mark>Python</mark> and <mark>Golang</mark>. I have experience in <mark>GCP</mark> cloud and various databases including <mark>Postgres</mark>, <mark>MySQL</mark>, and <mark>MongoDB</mark> and <mark>BigTable</mark>. Additionally, I have some experience in front-end technologies like React.js.
+  Join me as I share insights, experiences, and the occasional code snippet on my journey through the dynamic world of software engineering. Let's explore the endless possibilities of technology together!
 
 content:
   - title: Projects # Title for the section
@@ -102,11 +102,9 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
+      Alongside my interests in web and software engineering some of my other interests and hobbies are:
+      - Photography
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
