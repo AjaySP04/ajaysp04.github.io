@@ -43,9 +43,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Ajay an experienced software engineer with a passion for crafting innovative solutions in web development, project management, and system architecture. With over 7 years of hands-on experience, I've navigated through diverse industries—from insurance to medical imaging to advertising technology—where I've led the development of cutting-edge applications, including a real-time bidder for an emerging ad platform.
+  Welcome to my corner of the web! I'm Ajay Singh Parmar, an experienced software engineer with a passion for crafting innovative solutions in web development, project management, and system architecture. With over 7 years of hands-on experience, I've navigated through diverse industries—from insurance to medical imaging to advertising technology—where I've led the development of cutting-edge applications, including a real-time bidder for an emerging ad platform.
 
-  I am most skilled in: <mark>Python</mark> <mark>GCP</mark> and <mark>Eating Pizza</mark>
+  My journey has been defined by a commitment to driving projects to success, thriving in collaborative environments, and constantly seeking new challenges. Whether it's architecting scalable systems or spearheading development initiatives, I approach each project with a blend of creativity and technical expertise.
+
+  Join me as I share insights, experiences, and the occasional code snippet on my journey through the dynamic world of software engineering. Let's explore the endless possibilities of technology together!
+
+  My expertise is in web application development, mostly using <mark>Python</mark> and <mark>Golang</mark>. I have experience in <mark>GCP</mark> cloud and various databases including <mark>Postgres</mark>, <mark>MySQL</mark>, and <mark>MongoDB</mark> and <mark>BigTable</mark>. Additionally, I have some experience in front-end technologies like React.js.
 
 content:
   - title: Projects # Title for the section
